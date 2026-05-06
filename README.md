@@ -54,3 +54,6 @@ q = Queue()
 q.enqueue(10)
 q.enqueue(20)
 print(q.dequeue())  # Output: 10
+
+Name: Dakey Kelvin Kojo
+Student ID: 01241471B
